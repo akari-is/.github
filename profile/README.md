@@ -1,7 +1,7 @@
 ## Akari.is
 We are an audio company focusing on making interfaces for non-professional use.
 
-As of now our roadmap is getting the software out to the people and simultaneously working hardware.
+Our plan is to make the software available by the end of 25 and hardware by the end of 26 as a fair and cheap competition to other such related products.
 
 <!--
 
